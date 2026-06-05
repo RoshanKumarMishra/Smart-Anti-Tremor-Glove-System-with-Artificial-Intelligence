@@ -1,0 +1,20 @@
+# Compiled platform files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# Arduino compiler output locations
+build/
+bin/
+
+# Local Python caches & environment files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Local training weights & proprietary analytical matrices
+*.pkl
+*.pickle
+*.h5
